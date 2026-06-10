@@ -135,8 +135,10 @@ Datasets/SARC-V1/SARC-V1-shuffled.csv   # a shuffled copy of SARC-V1.csv
 
 | Resource | Link |
 |----------|------|
-| Download (Kaggle) | https://www.kaggle.com/datasets/sayashree/sarcasm-corpus-v2-oraby-et-al |
-| Paper (NLP4CMC) | https://nats.gitlab.io/swda/ |
+| Download (Kaggle) | https://www.kaggle.com/datasets/coldn00ldes/sarcasm-corpus-v2oraby-et-al |
+| Dataset Homepage | https://nlds.soe.ucsc.edu/sarcasm2 |
+| Paper (ACL Anthology) | https://aclanthology.org/W16-3604/ |
+| Paper (arXiv) | https://arxiv.org/abs/1709.05404 |
 
 Download the dataset and place the three subset CSV files as:
 ```
