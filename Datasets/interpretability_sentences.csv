@@ -1,0 +1,17 @@
+dataset,label,sentence
+SARC-V2_HYP,sarcastic,"wow, you just said something smart. did someone steal your account?"
+SARC-V2_HYP,not_sarcastic,"his lies, his media darling status, my post above answers your question for you."
+Llama70B_synthetic,sarcastic,"I'm absolutely thrilled to be spending my entire weekend studying for exams, said no student ever."
+Llama70B_synthetic,not_sarcastic,Playing video games can be a fun and creative way to explore new virtual worlds and challenge oneself.
+KimiK2_synthetic,sarcastic,"Oh great, another monthly subscription—because I was just thinking my money wasn’t disappearing fast enough."
+KimiK2_synthetic,not_sarcastic,"Playing sports teaches discipline, builds character, and creates bonds that often last a lifetime."
+SARC-V1,sarcastic,Yes. What would a former Archbishop of Canterbury know about Christianity?
+SARC-V1,not_sarcastic,"I know, Chloe's misuse of the word strikes again."
+SARC-V2_GEN,sarcastic,"People who don't agree with you must be banned or better still shot, right ??"
+SARC-V2_GEN,not_sarcastic,so we would penalize financially those who want to have kids?
+SARC-V2_RQ,sarcastic,I agree. What is the point? Felons with firearms do not bother with CCW licenses.
+SARC-V2_RQ,not_sarcastic,"Do you have any evidence for that? And still, I don't know what you mean by kind."
+News_Headlines,sarcastic,god getting strong urge to bring back dinosaurs
+News_Headlines,not_sarcastic,ben affleck and matt damon's company to add inclusion rider to all films
+Natural-Generated,sarcastic,How convenient that you're suddenly an expert on economics after reading a single blog post.
+Natural-Generated,not_sarcastic,The fact that humans can adapt to high altitudes does not mean they will grow wings.
