@@ -1,6 +1,8 @@
 # LLMs in Sarcasm Detection? It's Elementary! (Or Is It?)
 
-> **Research Paper:** *LLMs in Sarcasm Detection? It's Elementary! (Or Is It?)*  
+> **Research Paper:** [LLMs in Sarcasm Detection? It’s elementary! (Or is it?)](https://aclanthology.org/2026.acl-long.1346/) (Mahato et al., ACL 2026)  
+  > Priyanshu Mahato, Aniket Santosh Mishra, and Kripabandhu Ghosh. 2026. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 29169–29199, San Diego, California, United States. Association for Computational Linguistics.
+>
 > A mechanistic interpretability study exposing why Large Language Models fail at detecting sarcasm in natural human speech.
 
 ---
