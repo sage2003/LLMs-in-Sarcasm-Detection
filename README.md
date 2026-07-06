@@ -353,10 +353,25 @@ Codes/
 If you use this code or build on our findings, please cite:
 
 ```bibtex
-@inproceedings{llms-sarcasm-detection-2024,
-  title     = {LLMs in Sarcasm Detection? It's Elementary! (Or Is It?)},
-  booktitle = {Proceedings of ...},
-  year      = {2024}
+@inproceedings{mahato-etal-2026-llms,
+    title = "{LLM}s in Sarcasm Detection? It{'}s elementary! (Or is it?)",
+    author = "Mahato, Priyanshu  and
+      Mishra, Aniket Santosh  and
+      Ghosh, Kripabandhu",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.1346/",
+    doi = "10.18653/v1/2026.acl-long.1346",
+    pages = "29169--29199",
+    ISBN = "979-8-89176-390-6",
+    abstract = "While Large Language Models (LLMs) are frequently cited for their sophisticated pragmatic reasoning (CITATION), recent progress in sarcasm detection increasingly relies on synthetic benchmarks (CITATION). This study exposes a catastrophic generalization gap in this paradigm: we observe that models achieve near-perfect accuracy on synthetic data but collapse to random guessing on organic human speech. By triangulating hidden state geometry, entropy analysis, and causal interventions, we demonstrate that this disparity stems from shortcut learning (CITATION){---}models exploit the low-entropy statistical signatures of generated text while remaining ``semantically blind'' to the pragmatic cues essential for irony. Our findings indicate that high performance on synthetic leaderboards reflects forensic pattern matching rather than the genuine linguistic intelligence assumed in prior work, creating a statistical mirage of competence."
 }
 ```
 
